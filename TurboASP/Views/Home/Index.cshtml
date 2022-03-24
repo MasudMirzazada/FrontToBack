@@ -1,0 +1,19 @@
+﻿@model List<Brand>
+@{ 
+    ViewData["Title"] = "Index";
+}
+
+
+<ul>
+    @foreach (Brand brand in Model)
+    {
+        <li><a  href="home/index" asp-controller="Home" asp-action="Model" asp-route-id="@brand.Id">@brand.Name</a></li>
+    }
+</ul>
+
+@*<select>
+    @foreach (Brand brand in Model)
+    {
+        <option value="@brand.Id">@brand.Name</option>
+    }
+</select>*@

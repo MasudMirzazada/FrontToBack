@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTPMentor", "FTPMentor.csproj", "{6A1A5AAC-2F14-4D1A-885F-6C321DB861CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A1A5AAC-2F14-4D1A-885F-6C321DB861CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1A5AAC-2F14-4D1A-885F-6C321DB861CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1A5AAC-2F14-4D1A-885F-6C321DB861CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1A5AAC-2F14-4D1A-885F-6C321DB861CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {425D0EA1-F5A1-4902-A420-EDC300B24A30}
+	EndGlobalSection
+EndGlobal
